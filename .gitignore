@@ -1,0 +1,17 @@
+# macOS system files
+.DS_Store
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Agent memory and local storage
+agent_memory/
+
+# Logs
+logs/
