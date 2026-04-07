@@ -192,6 +192,7 @@ Log controls in the Decision Log tab:
 - [ ] Rules engine — explicit constraints the agent must follow before acting
 - [ ] Skills layer — specialised prompts per task type (research, QA, summarisation)
 - [ ] Multi-agent setup — specialised agents for parsing, writing, reviewing, and executing tests
+- [ ] How to test AI agent
 
 ---
 
